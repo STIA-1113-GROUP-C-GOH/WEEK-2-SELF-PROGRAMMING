@@ -1,11 +1,13 @@
 package selfProgramming;
 
-public class QuickCheck2 {
+public class Addition {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println ("\"Thank you all for "+"coming to my home\ntonight,\" he said "+"mysteriously.");
+		System.out.println ("24 and 45 concatenated: " + 24 + 45);
+		System.out.println ("24 and 45 added: " + (24 + 45));
 
 	}
 
 }
+
